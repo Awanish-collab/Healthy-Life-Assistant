@@ -13,7 +13,7 @@ The **Healthy Life Assistant** is a Python-based tool powered by **Generative AI
 
 - **Python**: Programming language for building the application.
 - **GenAI**: Tool for generating health-related insights and answering queries.
-- **Geolocation API**: For locating the nearest hospitals and doctors.
+- **Google Geolocation API**: For locating the nearest hospitals and doctors.
 - **Flask**: Web framework for building the interface.
 
 ## Installation
@@ -31,9 +31,11 @@ The **Healthy Life Assistant** is a Python-based tool powered by **Generative AI
    python health_app.py
 
 ##Usage
+
 1. Upload your medical reports or provide symptoms.
 2. Ask any health-related questions such as details about a specific medicine or disease.
 3. Get the nearest hospital or doctor based on your location.
 
 ##Contributing
+
 Feel free to fork this repository, submit issues, or contribute improvements. Pull requests are welcome!

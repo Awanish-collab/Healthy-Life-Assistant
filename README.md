@@ -13,8 +13,9 @@ The **Healthy Life Assistant** is a Python-based tool powered by **Generative AI
 
 - **Python**: Programming language for building the application.
 - **GenAI**: Tool for generating health-related insights and answering queries.
+- **OpenAI GPT-4**: For generating health-related insights and answering queries.
 - **Google Geolocation API**: For locating the nearest hospitals and doctors.
-- **Flask**: Web framework for building the interface.
+- **Streamlit UI**: An interactive, user-friendly interface for seamless user experience.
 
 ## Installation
 

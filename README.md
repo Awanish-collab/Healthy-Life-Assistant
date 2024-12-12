@@ -30,12 +30,12 @@ The **Healthy Life Assistant** is a Python-based tool powered by **Generative AI
    ```bash
    python health_app.py
 
-##Usage
+## Usage
 
 1. Upload your medical reports or provide symptoms.
 2. Ask any health-related questions such as details about a specific medicine or disease.
 3. Get the nearest hospital or doctor based on your location.
 
-##Contributing
+## Contributing
 
 Feel free to fork this repository, submit issues, or contribute improvements. Pull requests are welcome!

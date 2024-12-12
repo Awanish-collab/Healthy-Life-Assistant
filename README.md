@@ -40,3 +40,7 @@ The **Healthy Life Assistant** is a Python-based tool powered by **Generative AI
 ## Contributing
 
 Feel free to fork this repository, submit issues, or contribute improvements. Pull requests are welcome!
+
+## UI
+
+![Healthy Life Assistant Screenshot](ui.png)

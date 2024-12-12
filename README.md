@@ -20,7 +20,7 @@ The **Healthy Life Assistant** is a Python-based tool powered by **Generative AI
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Healthy-Life-Assistant.git
+   git clone https://github.com/Awanish-collab/Healthy-Life-Assistant.git
 
 2. Install required dependencies:
    ```bash
